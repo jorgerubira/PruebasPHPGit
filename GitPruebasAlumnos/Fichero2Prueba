@@ -1,0 +1,5 @@
+<?php
+$var1 = 5;
+$var2 = 1;
+echo $var1 > $var2 ? 'var1 es mayor a var2' : 'vaa2 es mayor a var1'; // condicion ? true : false
+?>
